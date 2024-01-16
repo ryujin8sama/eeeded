@@ -37,7 +37,7 @@ export const Resume = () => {
     >
       <ResumeIcon />
       <Typography component='span'>
-        <TextDecrypt text={' Resume'} />
+        <TextDecrypt text={'Télécharger CV'} />
       </Typography>
     </Link>
   );

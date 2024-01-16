@@ -1,59 +1,53 @@
 {
     "basics": {
-        "name": "Mark Tan",
-        "label": "Web Developer",
-        "email": "markcmtan@gmail.com",
-        "phone": "(XXX) XXX-XXXX",
+        "name": "Bouazzaoui Soheib",
+        "label": "Étudiant en informatique",
+        "email": "bouazzaoui.soheib.pro@gmail.com",
+        "phone": "+33 6 52 60 40 44",
         "picture": "mt.png",
         "x_title": "Hello, I'm",
-        "job1": "Web",
-        "job2": "Developer",
-        "description": "Hello! I'm Mark! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
-        "summary": "based in Angeles, Philippines.",
-        "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
-        "url": "https://taniyow.vercel.app/",
+        "job1": "Étudiant",
+        "job2": " Developer",
+        "description": "Bonjour, je m'apelle Bouazzaoui Soheib et je suis un étudiant en BUT2 informatique passionné par la tech et la cybersécuritée",
+        "summary": "je suis à l'IUT de villetaneuse, en France",
+        "keywords": "personal,website,portfolio,template,kit,Bouazzaoui,soheib,pinpin,php, cybersécurité,webdev,web,developer,etudiant,france,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
+        "url": "https://bouazzaouisoheib.site",
         "location": {
-            "address": "XX XXXXXstreet",
-            "postalCode": "XXXXX",
-            "city": "Angeles",
-            "country": "Philippines",
-            "countryCode": "PH",
-            "region": "Pampanga"
+            "address": "",
+            "postalCode": "",
+            "city": "",
+            "country": "",
+            "countryCode": "FR",
+            "region": ""
         },
         "profiles": [
             {
                 "network": "Google",
-                "username": "markcmtan@gmail.com",
-                "url": "mailto:markcmtan@gmail.com",
+                "username": "bouazzaoui.soheib.pro@gmail.com",
+                "url": "mailto:bouazzaoui.soheib.pro@gmail.com",
                 "x_icon": "fab fa-google"
             },
             {
                 "network": "LinkedIn",
-                "username": "mcmtan",
-                "url": "https://www.linkedin.com/in/mcmtan/",
+                "username": "Bouazzaoui Soheib",
+                "url": "https://www.linkedin.com/in/soheib-bouazzaoui/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "taniyow",
-                "url": "https://github.com/taniyow",
+                "username": "FAILED : Connection refused",
+                "url": "https://github.com/ryujin8sama",
                 "x_icon": "fab fa-github"
             },
             {
-                "network": "GitLab",
-                "username": "taniyow",
-                "url": "https://gitlab.com/taniyow",
-                "x_icon": "fab fa-gitlab"
-            },
-            {
                 "network": "Telegram",
-                "username": "marktaniyow",
-                "url": "https://t.me/marktaniyow",
+                "username": "Bouazzaoui Soheib",
+                "url": "https://t.me/BouazzaouiSoheib",
                 "x_icon": "fab fa-telegram-plane"
             },
             {
                 "network": "Discord",
-                "username": "taniyow#9142",
+                "username": "468512909916504065",
                 "url": "https://discord.com",
                 "x_icon": "fab fa-discord"
             }
@@ -113,27 +107,27 @@
         {
             "name": "Web Development",
             "level": "Master",
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": ["HTML","PHP","Linux","Bash", "CSS", "Javascript"]
         }
     ],
     "languages": [
         {
-            "language": "German",
-            "fluency": "Native speaker"
+            "language": "Français",
+            "fluency": "Natif"
         },
         {
-            "language": "English",
-            "fluency": "Fluent speaker"
+            "language": "Anglais",
+            "fluency": "Courant"
         },
         {
-            "language": "French",
-            "fluency": "Good knowledge"
+            "language": "Arabe",
+            "fluency": "Courant"
         }
     ],
     "interests": [
         {
-            "name": "Wildlife",
-            "keywords": ["Ferrets", "Unicorns"]
+            "name": "",
+            "keywords": ["Chats", "Lapins"]
         }
     ],
     "references": [

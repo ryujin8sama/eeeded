@@ -19,11 +19,8 @@ const useStyles = makeStyles((theme) => ({
 
 export const About = () => {
   const classes = useStyles();
-  const greetings = "Hello there!";
-  const aboutme = `I'm ${FirstName} ${LastName}, a multidisciplinary 
-                  designer & developer. I'm always down for something new and challenging!
-                  I'm here to help you create beautifully formatted websites. 
-                  My projects mostly includes web development.`;
+  const greetings = "Bonjour!";
+  const aboutme = 'Mon nom est Bouazzaoui Soheib et je suis un étudiant en informatique passionné par la cybersécuritée et la tech. Je suis constamment à la recherche de nouveaux défis, ce qui me pousse à m intéresser à un large éventail de sujets variés! Travailler sur de gros projets web en fullstack est quelque choseque j apprécie particulièrement.Je suis en train de suivre mes études en 2ème année de BUT informatique à l IUT de Villetaneuse.  ' ;
 
   return (
     <section id="about">
@@ -40,14 +37,14 @@ export const About = () => {
           </div>
           <div className="_content_wrapper">
             <Typography component='h2' variant="h5">
-              <TextDecrypt text={`${greetings}`} />
+              <TextDecrypt text={`Bonjour !`} />
             </Typography>
             <p className="aboutme">
               {aboutme}
             </p>
             <a href="#contact" className="contact-btn">
               <i className="fas fa-terminal"></i>
-              <Typography component='span'> Send me a message.</Typography>
+              <Typography component='span'> Envoyez moi un message.</Typography>
             </a>
           </div>
         </div>

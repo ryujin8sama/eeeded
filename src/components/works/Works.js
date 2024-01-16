@@ -27,28 +27,26 @@ export const Works = () => {
   const [projects, setProjects] = useState([
     { 
       id: 1,
-      title: 'React Portfolio', 
-      description: `Designed and developed a ReactJS portfolio 
-      with fancy 3D animations using Three.js for 
-      the background element.`,
-      alter: 'React Portfolio',
+      title: 'Portfolio',
+      description: `J'ai dev une page portfolio
+      avec des animations 3D en three.js pour le
+      fond d'écran dynamique. Il permet de me presenter rapidement et de mettre en valeur mes travaux`,
+      alter: ' Portfolio',
       image: `${Portfolio}`,
     },
     { 
       id: 2,
-      title: 'VeriTru Project', 
-      description: `An advocacy project website built using
-      MEAN stack with fact-checking tool to promote actions against
-      fake news.`,
-      alter: 'VeriTru Project',
+      title: 'Service d\'authentification',
+      description: `Un formulaire de connexion simple permettant l'accès à l'intranet de l'IUT au personnel du corps enseignant enregistré dans la base de données grâce au CAS et se connecter à un service lié.
+      Grâce à l'algorithme de cryptographie asymétrique RSA, les données sont entièrement chiffrées de bout en bout.`,
+      alter: 'CAS',
       image: `${Veritru}`,
     },
     { 
       id: 3,
-      title: 'LoFo Project', 
-      description: `Logistics and Forwarding website built using
-      ReactJS to design and develop its front-end.`,
-      alter: 'LoFo Project',
+      title: 'Pinpin OS',
+      description: `Le but de ce projet est de faire et de distribuer un systeme d'exploitation open source basé sur debian qui tournerai sur la switch. Le projet est build a partir du projet L4T. Le principal interet etant de faire tourner des jeux steam sur un processeur ARM. Le projet est pour le moment en phase de test .`,
+      alter: 'Projet pinpinOS',
       image: `${Lofo}`,
     },
     { 
