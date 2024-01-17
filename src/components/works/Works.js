@@ -51,19 +51,16 @@ export const Works = () => {
     },
     { 
       id: 4,
-      title: 'Startup Project', 
-      description: `A website portfolio project for the Startup Dev Team
-      built using MEVN stack to demonstrate the CRUD capabilities of the tech stack.`,
-      alter: 'Startup Project',
+      title: 'chiffrement RSA', 
+      description: `Développement d'un système de chiffrement de mot de passe basé sur l'algorithme RSA en suivant l'approche mathématique du sujet. L'algorithme reste cependant attaquable car la génération des keys est assez faible. Ce projet avait pour but de tester les connaissances cryptographique des eleves. `,
+      alter: 'RSA',
       image: `${Startup}`,
     },
     { 
       id: 5,
-      title: 'LaCalle Cafe', 
-      description: `A website project for the La Calle Cafe business
-      built using Wordpress and PHP with integrated SEO tools to help
-      the business ramp up its prospects and lead generation.`,
-      alter: 'Startup Project',
+      title: 'Donut C', 
+      description: `Réalisation du défi : "make the donut" organisé par des eleves de l'université qui consite a reproduire le donut rotatif developpé en C. Le defi demande des connaissances en mathématiques et des connaissances en C solide. Le but était de mettre en pratique les competences enseigné au deuxieme semestre de la formation.`,
+      alter: 'Dooooooooonut',
       image: `${Lacalle}`,
     },
   ]);
